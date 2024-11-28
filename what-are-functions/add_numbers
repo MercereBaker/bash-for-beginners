@@ -11,8 +11,8 @@ check_even () {
     fi
 }
 
-
 number=2344
+odd=3
 
-check_even $number
+check_even $odd
 echo $mod
